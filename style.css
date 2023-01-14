@@ -1,0 +1,210 @@
+.one-1 {
+    text-shadow: 10px 5px 3px red;
+}
+.one-2 {
+    text-shadow: -10px -5px green;
+}
+.one-3 {
+    text-shadow: 15px -10px green;
+}
+.one-4 {
+    text-shadow: 0px 0px 5px green;
+}
+.one-5 {
+    text-shadow: 0px 10px red, 0px -10px green;
+}
+.one-6 {
+    text-shadow: 3px 3px 3px black;
+}
+.one-7 {
+    text-shadow: 0px 0px 3px black;
+}
+.one-8 {
+    text-shadow: 0px 0px 3px red;
+}
+.one-9 {
+    text-shadow: 10px 10px 3px red, -10px -10px 3px blue;
+}
+.one-10 {
+    text-shadow: 10px 10px red, 20px 20px blue;
+}
+.two-1 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    box-shadow: 20px 15px 5px red;
+}
+.two-2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 20px -15px green;
+}
+.two-3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: inset 0px 0px 5px black;
+}
+.two-4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: inset 4px 3px 3px black;
+}
+.two-5 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 10px 10px green, -10px -10px red;
+}
+.two-6 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 10px 0px green, -10px 0px red, 0px 10px orange, 0px -10px blue;
+}
+.two-7 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 30px 50px black;
+}
+.two-8 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 30px 50px 15px black;
+}
+.two-9 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 30px 50px 15px black, -30px -50px 15px black;
+}
+.two-10 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: inset 10px 10px 15px black;
+}
+.two-11 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: inset 10px 10px 15px blue, inset -10px -10px 15px red;
+}
+.three-1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: linear-gradient(yellow, white);
+}
+.three-2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: linear-gradient(to right, yellow, white);
+}
+.three-3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: linear-gradient(to left, yellow, white);
+}
+.three-4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: linear-gradient(to top left, red, white);
+}
+.three-5 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: linear-gradient(to right, red 30px, blue 150px);
+}
+.three-6 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: linear-gradient(white 0%, white 33%, blue 33%, blue 66%, red 66%, red 100%);
+}
+.four-1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: radial-gradient(#55ddff, #0081b5);
+}
+.four-2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: radial-gradient(at top, #55ddff, #0081b5);
+}
+.four-3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: radial-gradient(circle, #55ddff, #0081b5);
+}
+.four-4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: radial-gradient(ellipse, #55ddff, #0081b5);
+}
+.four-5 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: radial-gradient(circle closest-side, #55ddff, #0081b5);
+}
+.four-6 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: radial-gradient(circle closest-corner at 30px 40px, #55ddff, #0081b5);
+}
+.four-7 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: radial-gradient(circle closest-side, #333 10px, white 30px, white 40px, green 50px);
+}
+.four-8 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: radial-gradient(circle closest-side, green 0px, green 30px, white 30px, white 50px, green 50px);
+}
+.five-1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: repeating-linear-gradient(to right, white 0px, white 5px, black 5px, black 10px);
+}
+.five-2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: repeating-linear-gradient(black 0px, black 5px, white 5px, white 10px);
+}
+.five-3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: repeating-linear-gradient(white 0px, white 5px, black 5px, black 6px);
+}
+.five-4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: repeating-linear-gradient(45deg, white, white 5px, red 5px, red 8px);
+}
+.six-1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background: repeating-radial-gradient(circle at center, white 0px, white 5px, black 5px, black 10px);
+}
